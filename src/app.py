@@ -62,7 +62,7 @@ activities = {
         "schedule": "Tuesdays, 3:00 PM - 4:30 PM",
         "max_participants": 15,
         "participants": []
-    }
+    },
     "Programming Class": {
         "description": "Learn programming fundamentals and build software projects",
         "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM",
